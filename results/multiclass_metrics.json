@@ -1,0 +1,7 @@
+{
+  "f1_macro_no_smote": 0.9374184099294431,
+  "f1_weighted_no_smote": 0.9991246570809137,
+  "f1_macro_smote": 0.9397630557922899,
+  "f1_weighted_smote": 0.9989946804142812,
+  "smote_secildi_mi": true
+}

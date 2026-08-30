@@ -232,7 +232,7 @@ ml-network-ids/
 - [x] Aşama 1: Veri + EDA + temizlik
 - [x] Aşama 2: Sızıntısız deney kurulumu
 - [x] Aşama 3: İkili sınıflandırma (3 model)
-- [ ] Aşama 4: Çok sınıflı sınıflandırma
+- [x] Aşama 4: Çok sınıflı sınıflandırma
 - [ ] Aşama 5: (Ops.) UNSW-NB15 doğrulaması
 - [ ] Aşama 6: Demo
 - [ ] Aşama 7: Dokümantasyon
