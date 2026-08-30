@@ -230,8 +230,8 @@ ml-network-ids/
 ## 10. İLERLEME TAKİBİ
 - [x] Aşama 0: Kurulum
 - [x] Aşama 1: Veri + EDA + temizlik
-- [ ] Aşama 2: Sızıntısız deney kurulumu
-- [ ] Aşama 3: İkili sınıflandırma (3 model)
+- [x] Aşama 2: Sızıntısız deney kurulumu
+- [x] Aşama 3: İkili sınıflandırma (3 model)
 - [ ] Aşama 4: Çok sınıflı sınıflandırma
 - [ ] Aşama 5: (Ops.) UNSW-NB15 doğrulaması
 - [ ] Aşama 6: Demo
