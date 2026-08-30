@@ -228,8 +228,8 @@ ml-network-ids/
 | Demo'da farklı sütunlu CSV çöküyor | Beklenen sütun listesini doğrula, eksikte anlaşılır hata mesajı göster |
 
 ## 10. İLERLEME TAKİBİ
-- [ ] Aşama 0: Kurulum
-- [ ] Aşama 1: Veri + EDA + temizlik
+- [x] Aşama 0: Kurulum
+- [x] Aşama 1: Veri + EDA + temizlik
 - [ ] Aşama 2: Sızıntısız deney kurulumu
 - [ ] Aşama 3: İkili sınıflandırma (3 model)
 - [ ] Aşama 4: Çok sınıflı sınıflandırma
