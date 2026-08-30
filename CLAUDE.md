@@ -13,12 +13,12 @@
 **Geliştirici profili:** Bir projeyi bitirmiş başlangıç-orta seviye. Ağ trafiği kavramları YENİ — her ağ terimi ilk geçtiğinde kısaca açıklanmalı.
 
 **Başarı kriterleri:**
-- [ ] İkili sınıflandırma (normal/saldırı) VE çok sınıflı sınıflandırma (saldırı türü) sonuçları
-- [ ] En az 3 model karşılaştırması (Lojistik Regresyon, Random Forest, XGBoost)
-- [ ] Özellik önemi (feature importance) analizi — "model neye bakarak karar veriyor?"
-- [ ] Gerçekçi değerlendirme: veri sızıntısı (data leakage) kontrolü yapılmış
-- [ ] Canlı demo: CSV yükle → saldırı raporu al (Gradio/Streamlit)
-- [ ] Teknik rapor (PDF)
+- [x] İkili sınıflandırma (normal/saldırı) VE çok sınıflı sınıflandırma (saldırı türü) sonuçları
+- [x] En az 3 model karşılaştırması (Lojistik Regresyon, Random Forest, XGBoost)
+- [x] Özellik önemi (feature importance) analizi — "model neye bakarak karar veriyor?"
+- [x] Gerçekçi değerlendirme: veri sızıntısı (data leakage) kontrolü yapılmış
+- [x] Canlı demo: CSV yükle → saldırı raporu al (Gradio/Streamlit)
+- [x] Teknik rapor (PDF)
 
 ---
 
@@ -233,6 +233,6 @@ ml-network-ids/
 - [x] Aşama 2: Sızıntısız deney kurulumu
 - [x] Aşama 3: İkili sınıflandırma (3 model)
 - [x] Aşama 4: Çok sınıflı sınıflandırma
-- [ ] Aşama 5: (Ops.) UNSW-NB15 doğrulaması
-- [ ] Aşama 6: Demo
-- [ ] Aşama 7: Dokümantasyon
+- [ ] Aşama 5: (Ops.) UNSW-NB15 doğrulaması — atlandı (opsiyonel), gelecek çalışma olarak raporda belirtildi
+- [x] Aşama 6: Demo
+- [x] Aşama 7: Dokümantasyon

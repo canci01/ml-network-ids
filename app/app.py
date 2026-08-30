@@ -97,6 +97,7 @@ demo = gr.Interface(
         gr.Plot(label="Kategori Dağılımı"),
     ],
     examples=[[os.path.join(os.path.dirname(__file__), "sample_input.csv")]],
+    cache_examples=False,
     title="Yapay Zeka Destekli Ağ Saldırı Tespit Sistemi (IDS)",
     description=(
         "CICIDS2017 veri setiyle eğitilmiş bir XGBoost modeli, yüklediğiniz ağ akışı (flow) "
